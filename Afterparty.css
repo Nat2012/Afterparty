@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(36, 225, 11);
+    font-style: italic;
+}
+
+p{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: gold;
+}
+
+
+header{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: gold;
+}
+
+
+#plans{
+    font-size: x-large;
+    font-weight: bold;
+    line-height: 1cm;
+}
